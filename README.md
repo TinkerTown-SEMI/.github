@@ -1,2 +1,2 @@
-# .github
-.github global repo for default metadata across all @TinkerTown-SEMI repos
+# TINKERTOWN/SEMI DEFAULT METADATA ONLY
+🚨 WARNING 🚨 This README should only show on the repository at https://github.com/TinkerTown-SEMI/.github. If it is showing on some other repo, please open an issue to have it fixed.
